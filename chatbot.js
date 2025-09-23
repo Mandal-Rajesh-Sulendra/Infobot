@@ -55,3 +55,4 @@ async function sendMessage() {
     typingDiv.innerHTML = `<b>Bot:</b>  Network error`;
   }
 }
+
